@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://playa-byte-web.vercel.app/sitemap.xml
